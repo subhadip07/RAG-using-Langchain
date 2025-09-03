@@ -10,3 +10,6 @@ langchain
 
 langchain-core
 pymupdf
+
+sentence-transformers
+chromadb
