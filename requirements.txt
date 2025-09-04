@@ -13,3 +13,4 @@ pymupdf
 
 sentence-transformers
 chromadb
+pypdf
